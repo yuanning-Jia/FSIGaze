@@ -2,7 +2,7 @@
 
 **Official Implementation**
 
-<div align=center>  <img src="figures/fig3.pdf" alt="Comparision" width="500" align="bottom" /> </div>
+<div align=center>  <img src="figures/fig3.png" alt="Comparision" width="500" align="bottom" /> </div>
 
 **Figure:**  *Visualization of gaze direction estimation under different conditions is displayed in the top two rows. The bottom row illustrates the results of eye region detection.*
 
