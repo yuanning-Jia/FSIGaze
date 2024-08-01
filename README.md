@@ -1,6 +1,7 @@
 # Frequency-Spatial Interaction Network for Gaze Estimation
 
 **Official Implementation**
+The code will be open.
 
 <div align=center>  <img src="figures/fig3.png" alt="Comparision" width="500" align="bottom" /> </div>
 
@@ -12,7 +13,7 @@
 * CUDA 10.2
 
 ## Datasets
-ETH-XGaze, Gaze360, MPIIFaceGaze, and EyeDiap datasets are downloaded from their respective official websites.
+ETH-XGaze, GazeCapture, MPIIFaceGaze, and EyeDiap datasets are downloaded from their respective official websites.
 
 The datasets are pre-processed using the method outlined in [1]. The code for data pre-processing is released by the authors of [1] and is available at [this page](https://phi-ai.buaa.edu.cn/Gazehub/).
 
