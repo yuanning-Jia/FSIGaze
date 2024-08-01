@@ -1,7 +1,6 @@
 # Frequency-Spatial Interaction Network for Gaze Estimation
 
-**Official Implementation**
-The code will be open.
+**The code will be open**
 
 <div align=center>  <img src="figures/fig3.png" alt="Comparision" width="500" align="bottom" /> </div>
 
