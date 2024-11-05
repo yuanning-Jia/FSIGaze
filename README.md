@@ -7,7 +7,7 @@
 
 <div align=center>  <img src="figures/table2.png" alt="Comparision" width="1000" align="bottom" /> </div>
 
-<div align=center>  <img src="figures/fig.png" alt="Comparision" width="100" align="bottom" /> </div>
+<div align=center>  <img src="figures/fig.png" alt="Comparision" width="1000" align="bottom" /> </div>
 **Figure:**  *Visualization of gaze direction estimation under different conditions is displayed in the top two rows. The bottom row illustrates the results of eye region detection.*
 
 
