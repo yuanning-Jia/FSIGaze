@@ -2,9 +2,14 @@
 
 **The code will be open**
 
+<div align=center>  <img src="figures/table1.png" alt="Comparision" width="500" align="bottom" /> </div>
+
+**Table 1:**  *Comparisonofourmodelwithcurrentstate-of-the-artsontheMPIIGaze,EYEDIAP,andETH-XGazedatasets. Thetopthreeresultsareshowninred,blue,andgreen,respectively.Theaccuracyofestimatedgazedirectionisreportedindegrees(°).*
+
 <div align=center>  <img src="figures/fig.png" alt="Comparision" width="500" align="bottom" /> </div>
 
 **Figure:**  *Visualization of gaze direction estimation under different conditions is displayed in the top two rows. The bottom row illustrates the results of eye region detection.*
+
 
 ## Requirement
 * Python 3.8.0
